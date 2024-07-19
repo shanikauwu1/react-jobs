@@ -83,34 +83,6 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
-    },
-    {
-      "id": "1882",
-      "title": "test",
-      "type": "Full-Time\"",
-      "location": "kandy",
-      "description": "test",
-      "salary": "$90K - 100K",
-      "company": {
-        "name": "tesla",
-        "description": "testing",
-        "contact_email": "shanika@gmail.com",
-        "contact_phone": "3322442444"
-      }
-    },
-    {
-      "id": "07d5",
-      "title": "Developer",
-      "type": "Internship",
-      "location": "Saskatoon",
-      "description": "tesla jobs",
-      "salary": "Over $200K",
-      "company": {
-        "name": "Web master",
-        "description": "testinf",
-        "contact_email": "shanika@gmail.com",
-        "contact_phone": "3322442444"
-      }
     }
   ]
 }
